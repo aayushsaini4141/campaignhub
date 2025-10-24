@@ -13,7 +13,6 @@ A modern campaign management dashboard built with Next.js, TypeScript, Supabase,
 ## Getting Started
 
 ### Prerequisites
-- Node.js
 - npm or yarn
 
 ### Installation
@@ -40,5 +39,3 @@ npm run dev
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first.
 
-## License
-MIT
