@@ -11,7 +11,7 @@ export default function SettingsPage() {
   return (
     <div className="p-4 md:p-8 space-y-8">
       <div className="space-y-2 animate-in fade-in-0 slide-in-from-top-4 duration-500">
-        <h1 className="text-4xl font-bold bg-gradient-to-r from-slate-900 via-blue-800 to-cyan-700 bg-clip-text text-transparent">
+        <h1 className="text-4xl font-bold bg-gradient-to-r from-slate-900 via-blue-800 to-cyan-700 bg-clip-text text-transparent flex justify-center md:justify-start">
           Settings
         </h1>
         <p className="text-slate-600">Manage your account and preferences</p>
